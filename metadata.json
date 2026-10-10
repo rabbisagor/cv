@@ -1,0 +1,7 @@
+{
+  "name": "বাংলা সিভি বিল্ডার - Pro Resume & CV Maker",
+  "description": "আধুনিক ও প্রফেশনাল সিভি তৈরি করুন ২০টি আকর্ষণীয় টেমপ্লেট থেকে। PDF, DOCX, PNG ও প্রিন্ট সাপোর্ট সহ বাংলা ও ইংরেজি উভয় ভাষায় সিভি তৈরি করার সম্পূর্ণ ফ্রি টুল।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
